@@ -1,0 +1,2 @@
+# Fonts and colours used
+Currently, the default fonts and font colours are used as there has been no requirement of changing it or any need to use CSS styling. There are no other notable colours to mention as a game UI has not been implemented (as there is no lab task corresponding to this).
